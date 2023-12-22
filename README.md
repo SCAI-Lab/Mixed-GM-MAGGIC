@@ -1,6 +1,5 @@
 # Graphical Modeling for HAPI
-
-## This is the repository for the projects on graphical modeling for HAPI
+This is the repository for the projects on graphical modeling for HAPI
 
 
 We implement the experiments using the base Python package "[causallearn](https://github.com/py-why/causal-learn/tree/main/causallearn/utils)"
