@@ -8,7 +8,7 @@ How to run the codes:
 1. Install the package "causallearn" in Python;
 2. Relace the original "cit.py" file in the package with the new file in this repository;
 3. Run "maggic.R" in R to generate synthetic datasets;
-4. Run "sim_causal.py". 
+4. Run "mag_val.py". 
 
 cit.py: new file for conditional independence test including implementation of predictive permutative conditional independence test.
 
