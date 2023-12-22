@@ -1,4 +1,4 @@
-# graphical-modeling for HAPI
+# Graphical Modeling for HAPI
 
 ## This is the repository for the projects on graphical modeling for HAPI
 
