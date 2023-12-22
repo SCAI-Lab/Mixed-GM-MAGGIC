@@ -14,7 +14,7 @@ cit.py: new file for conditional independence test including implementation of p
 
 
 # EuroCIM2023
-Supporting materials and references for the Poster in EuroCIM2023
+Supporting materials and references for the HAPI Poster in EuroCIM2023
 
 Reference List for the Poster
 
