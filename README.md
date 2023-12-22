@@ -1,3 +1,18 @@
+# graphical-modeling for HAPI
+
+## This is the repository for the projects on graphical modeling for HAPI
+
+
+We implement the experiments using the base Python package "[causallearn](https://github.com/py-why/causal-learn/tree/main/causallearn/utils)"
+How to run the codes:
+1. Install the package "causallearn" in Python;
+2. Relace the original "cit.py" file in the package with the new file in this repository;
+3. Run "maggic.R" in R to generate synthetic datasets;
+4. Run "sim_causal.py". 
+
+cit.py: new file for conditional independence test including implementation of predictive permutative conditional independence test.
+
+
 # EuroCIM2023
 Supporting materials and references for the Poster in EuroCIM2023
 
