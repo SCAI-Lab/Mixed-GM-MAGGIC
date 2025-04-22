@@ -4,12 +4,12 @@ This is the repository for the projects on graphical modeling for HAPI
 
 We implement the experiments using the base Python package "[causallearn](https://github.com/py-why/causal-learn/tree/main/causallearn/utils)"
 How to run the codes:
-1. Install the package "causallearn" in Python;
-2. Relace the original "cit.py" file in the package with the new file in this repository;
+1. Install the package "causallearn" in Python.
+2. Replace the original "cit.py" file in the package with the new file in this repository;
 3. Run "maggic.R" in R to generate synthetic datasets;
 4. Run "mag_val.py". 
 
-cit.py: new file for conditional independence test including implementation of predictive permutative conditional independence test.
+cit.py: new file for conditional independence test, including predictive permutative conditional independence test implementation.
 
 
 # EuroCIM2023
@@ -24,3 +24,6 @@ Reference List for the Poster
 [3] Rich, Jonathan D., et al. "Meta‐Analysis Global Group in Chronic (MAGGIC) heart failure risk score: validation of a simple tool for the prediction of morbidity and mortality in heart failure with preserved ejection fraction." Journal of the American Heart Association 7.20 (2018): e009594.
 
 [4] Scheel-Sailer, Anke, et al. "Risk Constellation Of Hospital Acquired Pressure Injuries In Patients With A Spinal Cord Injury/Disorder-Focus On Time Since Spinal Cord Injury/Disorder And Patients’ Age." (2022).
+
+# Acknowledgement
+This study was partially funded by the Schweizer Paraplegiker Stiftung (SPS) and the ETH Zürich Foundation through the 2021-HS-348 ETH-SPS Digital Transformation in Personalized Healthcare for SCI.
